@@ -1,4 +1,4 @@
-### Всем привет 👋
+<center>Всем привет 👋</center>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/11c7UUfN4eoHF6/giphy.gif" width="150"/>
 </div>

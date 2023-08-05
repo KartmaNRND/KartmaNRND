@@ -6,7 +6,6 @@
 <p align="center">
  Всем привет👋 
 </p>     
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
   
 
 <!--

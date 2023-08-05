@@ -3,7 +3,9 @@
   <img src="https://media.giphy.com/media/11c7UUfN4eoHF6/giphy.gif" width="150"/>
 </div>
 <h1>
-                                                                  Всем привет👋    
+<p align="center">
+// Your content
+</p> Всем привет👋    
   
 
 <!--
